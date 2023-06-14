@@ -26,12 +26,10 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-
 # End of custom host records.
-# Start StevenBlack
+# Start wonxshelond/pihole-blocklist
 
 #=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
+# Title: Hosts contributed by wonxshelond
 
 0.0.0.0 ck.getcookiestxt.com
